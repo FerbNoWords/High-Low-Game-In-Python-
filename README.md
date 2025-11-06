@@ -3,7 +3,7 @@ A probabilistic game that depends on complete randomness, this project includes 
 
 # How To Run
 pip install pillow
-python main.py
+python HILO_cards_game.py
 
 # Key Features
 Feature	Description
